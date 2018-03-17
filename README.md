@@ -1,0 +1,1 @@
+# nicehash_domain_whitelist
